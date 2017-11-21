@@ -1,4 +1,4 @@
-#Random generator to split NomoFOMO team into pairs for team building exercises.
+#Random generator to split team into pairs for team building exercises.
 
 ## Exercise: "One question"
 
@@ -7,42 +7,6 @@
 * Each pair will get 3 minutes to discuss and plan their question.
 
 * At the end of the 3 minutes, we will go over each others' answers and briefly discuss
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

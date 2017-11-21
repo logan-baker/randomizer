@@ -1,6 +1,6 @@
 
 
-var homies = ["Jeff", "Adelaida", "Graham", "Bennie", "Michelle", "Mateer", "Ryan", "Watson", "Annie", "Logan"];
+var homies = ["Bobby1", "Bobby2", "Bobby3", "Bobby4",];
 var loopLength = homies.length / 2;
 var name1 = 0;
 var name2 = 0;
